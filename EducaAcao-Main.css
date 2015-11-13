@@ -1,0 +1,99 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-transform: uppercase;
+
+}
+.nav li {
+  display: inline;
+}
+.jumbotron {
+  height: 500px;
+  background-image: url('http://previews.123rf.com/images/cookelma/cookelma1209/cookelma120900055/15167681-swimming-pool-under-water--Stock-Photo.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+    
+}
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+.jumbotron h1 {
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+
+}
+.jumbotron p {
+  color: #fff;
+  font-size: 20px;
+}
+.learn-more {
+  backgroundcolor: #f7f7f7;
+  font-family: 'Open Sans', sans-serif;
+}
+.learn-more h3{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+.learn-more a{
+  color: #5A5AE1;
+}
+.neighborhood-guides {
+  background-color: #efefef;
+  border-bottom: 1px solid #dbdbdb;
+  font-family: 'Open Sans', sans-serif;
+}
+.neighborhood-guides p{
+  margin-bottom: 13px;
+  font-size: 15px;
+}
+.neighborhood-guides h2 {
+  color: #393c3d;
+  font-size: 24px;
+}
+
+.footer a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-transform: uppercase;
+}
+.footer li {
+  display: inline;
+}
+
+@font-face {
+  font-family: 'Shift';
+  font-style: normal;
+  font-weight: normal;
+  src: url("http://s3.amazonaws.com/codecademy-content/courses/ltp/fonts/shift.woff") format("woff");
+}
+@font-face {
+  font-family: 'Shift';
+  font-style: normal;
+  font-weight: bold;
+  src: url("http://s3.amazonaws.com/codecademy-content/courses/ltp/fonts/shift-bold.woff") format("woff");
+}
+
+
+
+
+
+
+
+
+
+
+
